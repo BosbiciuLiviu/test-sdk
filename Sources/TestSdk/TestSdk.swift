@@ -3,4 +3,8 @@ public struct TestSdk {
 
     public init() {
     }
+    
+    public func returnOne() -> Int {
+        return 1
+    }
 }
